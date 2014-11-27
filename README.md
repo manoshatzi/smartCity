@@ -1,4 +1,4 @@
 smartCity
 =========
 
-This a University Project for Smart City
+This is a University Project for Smart City
