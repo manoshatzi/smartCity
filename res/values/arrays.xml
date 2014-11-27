@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="spinner_items">
+	    <item>@string/spinItem1</item>
+	    <item>@string/spinItem2</item>
+	    <item>@string/spinItem3</item>
+	    <item>@string/spinItem4</item>
+	</string-array>
+	
+	<string-array name="spinner_values">
+	    <item>@string/spinValue1</item>
+	    <item>@string/spinValue2</item>
+	    <item>@string/spinValue3</item>
+	    <item>@string/spinValue4</item>
+	</string-array>
+</resources>

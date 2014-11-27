@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartCity</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="form_title">Φορμα Αναφοράς Προβλήματος</string>
+    
+    <string name="type_problem">Τύπος προβλήματος</string>
+    <string name="address_problem">Διεύθυνση</string>
+    <string name="pick_geolocation">Συντεταγμένες</string>
+    <string name="sort_description">Σύντομη περιγραφή</string>
+    <string name="latitude">lat:</string>
+	<string name="longitude">long:</string>
+    <string name="date_of_problem">Ημερομηνία παρατήρησης</string>
+    <string name="pick_date">Διάλεξε μια Ημερομηνία</string>
+    <string name="picture_path"></string>
+    <string name="picture_of_problem">Προσθήκη Φωτογραφίας</string>
+    <string name="add_values">Καταχώρηση</string>
+    
+    <string name="spinItem1">βλάβη</string>
+    <string name="spinItem2">φθορά</string>
+    <string name="spinItem3">κλοπή</string>
+    <string name="spinItem4">ρύπανση</string>
+    <string name="spinValue1">1</string>
+    <string name="spinValue2">2</string>
+    <string name="spinValue3">3</string>
+    <string name="spinValue4">4</string>
+    
+    
+	<!-- GPS Tracker strings --> 
+	<string name="GPSAlertDialogTitle">GPS is setting</string>
+    <string name="GPSAlertDialogMessage">GPS is not enabled. Do you want to go to setting menu</string>
+	<string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
